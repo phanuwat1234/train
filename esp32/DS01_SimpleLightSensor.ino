@@ -11,7 +11,7 @@ void setup(){
  Serial.println("program DS01");
  Serial.println("Simple Light Sensor");
  Serial.println("modified for esp32"); 
- Serial.println("modified by Digital");
+ Serial.println("modified by Digital siam");
 }
 
 void loop(){
