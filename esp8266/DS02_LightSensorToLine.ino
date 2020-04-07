@@ -5,8 +5,8 @@
 */
 #include <TridentTD_LineNotify.h>
 
-#define SSID        "itdabos_wifi2.4G"
-#define PASSWORD    "0819110933"
+#define SSID        "phanuwatwifi"
+#define PASSWORD    "123456789"
 #define LINE_TOKEN  "QsQ98UigZ6hSi5Hub50J1HGNyDo2dmB7rdE5OE7s7BO"
 
 void setup(){
